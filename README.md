@@ -10,6 +10,10 @@ Part 1
 5. Divs, tables, and images of contents are centered
 6. Resized images to be smaller (50% of original size)
 
+Part 2
+====================
+CSS stylesheet acquired from HTML5webtemplates.co.uk
+
 Objective
 ====================
 
@@ -27,7 +31,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 License/Copyright
 =================
 
-Textual content is copyright Muhammad Umer Khan (C) 2020 under the CC-BY-SA
+Textual content is copyright (aside from gutenberg stories) Muhammad Umer Khan (C) 2020 under the CC-BY-SA
 4.0 unsupported license. Attribution should be a hyperlink to the
 repository and (C) 2020 Muhammad Umer Khan visible in the text.
 
